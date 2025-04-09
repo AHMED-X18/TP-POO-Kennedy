@@ -1,5 +1,9 @@
 ## Getting Started
 
+Proprietaire du projet : AHMED JALIL TADIDA D.
+Classe : 3GI
+Matricule : 22P265
+
 Le projet présenté ici est une application qui matérialise une boutique de vente d'appareils électroniques. 
 Pour un client donné, il doit être capable d'acheter un article qui lui est présenté, de vérifier s'il est volé et si c'est le cas, il doit avoir les informations du propriétaire et lui renseigner sur la localisation de son appareil.
 
