@@ -17,6 +17,8 @@ Pour l'interface graphique, c'est java SWing qui est utilisé
 
 Il est aussi associé à ce projet, le fichier SQL qui représente la base de données liée au projet ainsi que les différentes tables qui contiennent les instances qui ont servi d'exemple pour l'implémentation.
 
+## Explication du fonctionnement de l'application
+
 Dans le fichier App.java, on a d'abord la classe BackgroundPanel qui represente la classe pour l'image en arrière-plan. Ensuite, la classe PhoneList qui represente la classe qui gère les téléphones. Elle a pour caractéristique les éléments nécessaires pour se connecter à la base de données. On a les méthodes :
 - loadPhones() qui permet de charger la liste ds téléphones à partir de la BD; 
 - addPhonePanel() qui ajoute un téléphone sur la fenetre;
